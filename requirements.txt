@@ -23,7 +23,7 @@ ujson
 wget
 pytz
 dnspython==2.6.1
-python-telegram-bot
+python-telegram-bot==13.11
 python-math
 
 
